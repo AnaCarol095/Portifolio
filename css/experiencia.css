@@ -22,6 +22,10 @@
   line-height: 1.4;
 }
 
+.experiencia strong{
+  color: black;
+}
+
 .empresa{
   display: grid;
   grid-template-columns: 1fr 2fr;
@@ -36,8 +40,9 @@
 .empresa-ano{
   position: absolute;
   top: 20px;
-  left: -58px;
+  left: -80px;
   font-size: 0.9rem;
+  width: 70px;
 }
 
 .empresa-titulo{
